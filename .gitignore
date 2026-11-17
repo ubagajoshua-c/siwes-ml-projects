@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+Credit Card Fraud Detection/creditcard.csv
+Credit Card Fraud Detection/test_data.pkl
+Chrisland University AI Assistant/student_handbook.pdf
